@@ -65,6 +65,10 @@ const StyledCredit = styled.div`
       height: 14px;
     }
   }
+  .padding-below {
+    padding-bottom: 4px;
+    margin-bottom: 10px;
+  }
 `;
 
 const Footer = () => {
@@ -106,7 +110,7 @@ const Footer = () => {
 
       <StyledCredit tabindex="-1">
         <a href="https://github.com/bchiang7/v4">
-          <div>Designed &amp; Built by Brittany Chiang</div>
+          <div className='padding-below'>Designed &amp; Built by Brittany Chiang</div>
           <div>Currently Being Used by Surafel Yimam</div>
 
           {githubInfo.stars && githubInfo.forks && (
