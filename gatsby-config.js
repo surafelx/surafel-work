@@ -7,7 +7,7 @@ module.exports = {
       'Surafel Yimam is a software engineer who likes to learn and grow.',
     siteUrl: 'https://surafel.work', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
-    // twitterUsername: '@bchiang7',
+    twitterUsername: '@bchiang7',
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
