@@ -1,12 +1,12 @@
 ---
 date: '2015-12-21'
-title: 'Creative Technologist Co-op'
-company: 'MullenLowe'
+title: 'Freelance Engineer'
+company: 'UpWork Freelance'
 location: 'Boston, MA'
 range: 'July - December 2015'
-url: 'https://us.mullenlowe.com/'
+url: 'https://upwork.com'
 ---
 
-- Developed, maintained, and shipped production code for client websites primarily using HTML, CSS, Sass, JavaScript, and jQuery
-- Performed quality assurance tests on various sites to ensure cross-browser compatibility and mobile responsiveness
-- Clients included JetBlue, Lovesac, U.S. Cellular, U.S. Department of Defense, and more
+- Conducting extensive research and preparing reports that presented an overview of the justifications for selecting suitable project equipment and hardware.
+- Designed, constructed, and built electronic schematics as well as made reports for the purpose of design, and participated in the manufacture of the design.
+- Designed and constructed the required software and infrastructure, which I thenremotely deployed and configured on the hardware.

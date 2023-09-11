@@ -1,13 +1,13 @@
 ---
-date: '2018-05-14'
-title: 'Lead Engineer'
-company: 'Upstatement'
+date: '2023-05-14'
+title: 'Co Founder'
+company: 'DC Soft'
 location: 'Boston, MA'
-range: 'May 2018 - Present'
-url: 'https://www.upstatement.com/'
+range: 'December 2020 - Present'
+# url: 'https://www.upstatement.com/'
 ---
 
-- Deliver high-quality, robust production code for a diverse array of projects for clients including Harvard Business School, Everytown for Gun Safety, Pratt Institute, Koala Health, Vanderbilt University, The 19th News, and more
-- Work alongside creative directors to lead the research, development, and architecture of technical solutions to fulfill business requirements
-- Collaborate with designers, project managers, and other engineers to transform creative concepts into production realities for clients and stakeholders
-- Provide leadership within engineering department through close collaboration, knowledge shares, and mentorship
+- Redesigning and rebuilding an existing desktop-based app to a web-based app using React.js for the frontend and an Express API for the backend.
+- Reconfiguring, recreating and deploying an existing database system to a remote NGINX server using a PostgreSQL instance.
+- Creating a CI/CD workflow for both local and remote deployments as per the client's request for continuous maintenance.
+- Composed simple technical documentation for future teams to understand the methodology and procedures I had carried out in my development process.
